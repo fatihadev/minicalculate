@@ -1,0 +1,42 @@
+[33mcommit 272e16302096e69d6959e5859214beb866907104[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: fatiha <fatihalaabidipro31@gmail.com>
+Date:   Thu Oct 24 21:15:46 2024 +0200
+
+    four
+
+[33mcommit a01a45e9f3b8e4018e8b1637cb3962c8f1328757[m
+Author: fatiha <fatihalaabidipro31@gmail.com>
+Date:   Thu Oct 24 21:10:40 2024 +0200
+
+    three
+
+[33mcommit 9b90a0f0405d45d2388dd85713b4579203ac086f[m
+Merge: a67e878 26213ce
+Author: fatiha <fatihalaabidipro31@gmail.com>
+Date:   Thu Oct 24 21:06:13 2024 +0200
+
+    Merge branch 'main' of https://github.com/fatihadev/minicalculate
+
+[33mcommit a67e8784e6e4caf281bf674431e39164abcce98e[m
+Author: fatiha <fatihalaabidipro31@gmail.com>
+Date:   Thu Oct 24 21:06:08 2024 +0200
+
+    twoo
+
+[33mcommit 26213cedf3e5269d72542d00d5c8334afa303365[m
+Author: fatihadev <107428747+fatihadev@users.noreply.github.com>
+Date:   Thu Oct 24 21:03:45 2024 +0200
+
+    Delete CNAME
+
+[33mcommit a36ba6300e34513b19dc2f70dc53549339fdfa3f[m
+Author: fatihadev <107428747+fatihadev@users.noreply.github.com>
+Date:   Thu Oct 24 21:00:11 2024 +0200
+
+    Create CNAME
+
+[33mcommit 243a8ce820109294a401280c557e75b16d72e159[m
+Author: fatiha <fatihalaabidipro31@gmail.com>
+Date:   Thu Oct 24 20:56:40 2024 +0200
+
+    one
